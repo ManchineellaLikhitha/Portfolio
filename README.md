@@ -23,8 +23,7 @@ It showcases my skills, projects, certifications, and contact information in a m
 ---
 
 ## 📸 Live Demo
-👉 [https://manchineella-likhitha.netlify.app](https://manchineella-likhitha.netlify.app)
-
+👉 [https://manchineella-likhitha-portfolio.netlify.app/]
 ---
 
 ## 💻 Getting Started (Run Locally)
