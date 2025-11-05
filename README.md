@@ -30,4 +30,4 @@ It showcases my skills, projects, certifications, and contact information in a m
 
 Clone the repository:
 ```bash
-git clone https://github.com/manchineella-likhitha/manchineella-portfolio.git
+git clone [https://github.com/ManchineellaLikhitha/Portfolio.git](https://github.com/ManchineellaLikhitha/Portfolio.git)
